@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm Phuoc 👨‍💻  <br>🎓 2nd-year CS student at Ho Chi Minh City University of Technology (Bach Khoa University).  <br>💡 Working toward becoming a Software Engineer focusing on backend and fullstack development.  <br>💻 I code mainly in C++ and Python, and I'm trying to learn JavaScript.  <br>🔥 Always learning something new.
+Hi there! I'm Phuoc 👨‍💻  <br>🎓 2nd-year CS student at Ho Chi Minh City University of Technology (Bach Khoa University).  <br>💡 Working toward becoming a Software Engineer focusing on backend and fullstack development.  <br>💻 I code mainly in C++ and Python, and I'm trying to learn JavaScript.  <br>🔥 Always learning something new.
 
 
 ## 🌐 Socials:
