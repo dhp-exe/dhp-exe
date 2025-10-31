@@ -11,10 +11,6 @@ Hi there! I'm Phuoc 👨‍💻  <br><br>🎓 2nd-year CS student at Ho Chi Minh
 ![](https://nirzak-streak-stats.vercel.app/?user=dhp-exe&theme=apprentice&hide_border=false)&nbsp;&nbsp;&nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhp-exe&theme=apprentice&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dhp-exe&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
-
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dhp-exe&icon=7&color=13)](https://visitcount.itsvg.in)
