@@ -1,7 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Phuoc.  <br><br>🎓 3rd-year CS student at Ho Chi Minh City University of Technology (HCMUT)<img src="https://hcmut.edu.vn/img/nhanDienThuongHieu/01_logobachkhoatoi.png" width="50" valign="middle" />.  <br>💡 Working toward becoming a Software Engineer focusing on backend and full-stack development.<br><br>🔥 Always learning something new.
-
-Have a look at my projects below ⇩
+Hi there! I'm Phuoc.  <br><br>🎓 3rd-year CS student at Ho Chi Minh City University of Technology (HCMUT)<img src="https://hcmut.edu.vn/img/nhanDienThuongHieu/01_logobachkhoatoi.png" width="50" valign="middle" />.  <br>💡 Focused on AI-Native Software Engineering & Agentic Workflows.<br><br>🔥 Always learning and experimenting with something new.
 
 ## 💻 Tech Stack:
 
@@ -18,9 +16,11 @@ Have a look at my projects below ⇩
 <div align="center">
 <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
 <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 </div>
 
 
@@ -34,14 +34,17 @@ Have a look at my projects below ⇩
 </div>
 
 
-### ☁️ DevOps & Infrastructure & Tools
+### ☁️ Infrastructure & Tools
 <div align="center">
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </div>
 
 ---
